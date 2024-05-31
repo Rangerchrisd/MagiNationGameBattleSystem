@@ -1,0 +1,12 @@
+Chris
+106.117@-81.91527
+Scene0
+0-69-
+2-4
+Punch,2,1-Defend,0,4-Focus,0,6-Summon,0,10-
+OnePunchFan-1-0-8-8-0-0-0-0
+Punch-2-1
+Thor-1-0-19-29-0-0-0-0
+Mjolnir-0-10
+0
+endOfFile
